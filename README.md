@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Thiên Nguyễn, A NewBie Web Dev</h1>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages
 
 <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
@@ -22,15 +22,4 @@
     <a href="#"><img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20"></a>
     <a href="#"><img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="20"></a>
     <a href="#"><img alt="mariadb" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" height="20"></a>
-</p>
-
-<br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/thi%C3%AAn-nguy%E1%BB%85n-70416a231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/nt.thien.9899/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-
 </p>
