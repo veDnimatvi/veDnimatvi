@@ -29,6 +29,6 @@
 <img width="30%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamindevplus" />
 </p>
 
-### 🚀 Scan me
+### &#127919; Scan me
 
 ![vitamindev-qr](https://user-images.githubusercontent.com/107902169/180982318-13704c6d-68b8-4f42-8533-873eb518cfc7.png)
