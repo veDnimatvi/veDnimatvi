@@ -24,8 +24,10 @@
     <a href="#"><img alt="mariadb" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" height="20"></a>
 </p>
 
-#### *Profile hits*  
-<img src="https://profile-counter.glitch.me/vitamindevplus/count.svg" />
+<p width="100%">
+<img width="55%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitamindevplus&show_icons=true" /> 
+<img width="30%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamindevplus" />
+</p>
 
 ### Contact me
                   
