@@ -32,5 +32,3 @@
 ### Scan me
 
 ![vitamindev-qr](https://user-images.githubusercontent.com/107902169/180982318-13704c6d-68b8-4f42-8533-873eb518cfc7.png)
-
-
