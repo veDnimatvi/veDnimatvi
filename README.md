@@ -29,8 +29,8 @@
 <img width="30%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamindevplus" />
 </p>
 
-### Contact me
-                  
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nt.thien.9899)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitamindev)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vitamindev100)
+### Scan me
+
+![vitamindev-qr](https://user-images.githubusercontent.com/107902169/180982318-13704c6d-68b8-4f42-8533-873eb518cfc7.png)
+
+
