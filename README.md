@@ -25,8 +25,8 @@
 </p>
 
 <p width="100%">
-<img width="55%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitamindevplus&show_icons=true" /> 
-<img width="30%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamindevplus" />
+<img width="53%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitamindevplus&show_icons=true" /> 
+<img width="44%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamindevplus&layout=compact" />
 </p>
 
 ### &#127919; Scan me
