@@ -30,5 +30,4 @@
 </p>
 
 ### &#127919; Scan me
-
-![vitamindev-qr](https://user-images.githubusercontent.com/107902169/180982318-13704c6d-68b8-4f42-8533-873eb518cfc7.png)
+<img width="300px" height="300px" alt="vitamindev-qr" src="https://user-images.githubusercontent.com/107902169/189528488-7945a581-9e60-484f-80c6-7df13f4b5578.png" />
