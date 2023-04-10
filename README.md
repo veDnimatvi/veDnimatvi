@@ -28,6 +28,3 @@
 <img width="53%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitamindevplus&show_icons=true" /> 
 <img width="44%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitamindevplus&layout=compact" />
 </p>
-
-### &#127919; Scan me
-<img width="300px" height="300px" alt="vitamindev-qr" src="https://user-images.githubusercontent.com/107902169/189528488-7945a581-9e60-484f-80c6-7df13f4b5578.png" />
