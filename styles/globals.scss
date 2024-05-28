@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./header.scss";
+@import "./blog.scss";
+@import "./profile.scss";
+@import "./dark.scss";
+@import "./light.scss";
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "IBM Plex Mono", monospace;
+  background-color: var(--background-color);
+  color: var(--color);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-behavior: -webkit-smooth;
+  scroll-behavior: -ms-smooth;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.footer {
+  padding: 50px;
+}
+
+.disable-div {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+.modal-content {
+  width: 500px;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 2rem 0;
+}
+
+.modal-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 25px;
+}

@@ -1,0 +1,10 @@
+html[data-theme="dark"] {
+  --color: rgb(250, 250, 250);
+  --background-color: rgb(34, 33, 33);
+  input {
+    color: black;
+  }
+  textarea {
+    color: black;
+  }
+}
