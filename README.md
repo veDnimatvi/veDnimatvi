@@ -20,6 +20,7 @@
     <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" height="20"></a>
      <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20"></a>
     <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="20"></a>
+    <a href="#"><img alt="Nestjs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" height="20"></a>
     <a href="#"><img alt="Graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="20"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" height="20"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="20"></a>
