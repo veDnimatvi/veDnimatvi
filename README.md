@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Thiên. I'm a Web Developer</h1>
 
-## 🚀 I enjoy working with
+## 🚀 See more: https://webcuathien.vercel.app/
 
-<p>
+<!-- <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="30"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="30"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white" height="30"></a>
@@ -30,9 +30,4 @@
     <a href="#"><img alt="Sequilize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="30"></a>
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"></a>
-</p>
-
-<p width="100%">
-<img width="53%" align="top" max-height="100%" alt="Thien's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=veDnimatvi&show_icons=true" /> 
-<img width="44%" alt="Thien's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veDnimatvi&layout=compact" />
-</p>
+</p> -->
